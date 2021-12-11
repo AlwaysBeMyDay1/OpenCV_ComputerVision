@@ -1,0 +1,5 @@
+﻿  Canny_Edge_Detection.cpp
+C:\Users\home\Desktop\김대연\학교 문서\2021 2학기\자율주행 및 인공지능\CWS\Test_ad\Test_ad\Canny_Edge_Detection.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\home\Desktop\김대연\학교 문서\2021 2학기\자율주행 및 인공지능\CWS\Test_ad\Test_ad\Canny_Edge_Detection.cpp(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\home\Desktop\김대연\학교 문서\2021 2학기\자율주행 및 인공지능\CWS\Test_ad\Test_ad\Canny_Edge_Detection.cpp(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  Test_ad.vcxproj -> C:\Users\home\Desktop\김대연\학교 문서\2021 2학기\자율주행 및 인공지능\CWS\Test_ad\x64\Debug\Test_ad.exe
