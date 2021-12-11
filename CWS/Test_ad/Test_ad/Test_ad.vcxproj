@@ -150,6 +150,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="21721035_김대연_HW1.cpp" />
+    <ClCompile Include="Adaptive_Binarization.cpp" />
+    <ClCompile Include="Binarization.cpp" />
+    <ClCompile Include="Color_Transformations.cpp" />
     <ClCompile Include="EG1_average_filter.cpp" />
     <ClCompile Include="EG2_blur_filter.cpp" />
     <ClCompile Include="EG3_embossing_filter.cpp" />
@@ -160,6 +163,8 @@
     <ClCompile Include="EG8_gaussian_noise.cpp" />
     <ClCompile Include="EG9_median_filter.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Color_Processing.cpp" />
+    <ClCompile Include="Morphological_Image_Processing.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
