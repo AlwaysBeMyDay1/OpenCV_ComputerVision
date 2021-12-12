@@ -163,6 +163,8 @@
     <ClCompile Include="EG7_Sharpen_img_unsharp_filter_mask.cpp" />
     <ClCompile Include="EG8_gaussian_noise.cpp" />
     <ClCompile Include="EG9_median_filter.cpp" />
+    <ClCompile Include="Hough_Circles.cpp" />
+    <ClCompile Include="Hough_Detection.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Color_Processing.cpp" />
     <ClCompile Include="Morphological_Image_Processing.cpp" />

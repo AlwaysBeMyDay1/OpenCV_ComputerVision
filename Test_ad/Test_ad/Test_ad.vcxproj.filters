@@ -13,7 +13,7 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\FinalExam">
+    <Filter Include="소스 파일\Detection">
       <UniqueIdentifier>{c3c4de38-55c1-49ee-beec-960ac1b3be12}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -52,28 +52,34 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Color_Processing.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
     <ClCompile Include="Color_Transformations.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
     <ClCompile Include="Binarization.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
     <ClCompile Include="Adaptive_Binarization.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
     <ClCompile Include="Morphological_Image_Processing.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
     <ClCompile Include="Sobel_Edge_Detection.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
     <ClCompile Include="Scharr_Edge_Detection.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
     <ClCompile Include="Canny_Edge_Detection.cpp">
-      <Filter>소스 파일\FinalExam</Filter>
+      <Filter>소스 파일\Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="Hough_Detection.cpp">
+      <Filter>소스 파일\Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="Hough_Circles.cpp">
+      <Filter>소스 파일\Detection</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
