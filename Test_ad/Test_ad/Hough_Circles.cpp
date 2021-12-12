@@ -1,7 +1,7 @@
-#if 1
-#include <opencv2/opencv.hpp>;
-#include <stdio.h>;
-#include <iostream>;
+#if 0
+#include "opencv2/opencv.hpp"
+#include <stdio.h>
+#include <iostream>
 
 int main(void) {
 	using namespace cv;

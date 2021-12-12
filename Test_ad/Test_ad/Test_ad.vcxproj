@@ -163,6 +163,7 @@
     <ClCompile Include="EG7_Sharpen_img_unsharp_filter_mask.cpp" />
     <ClCompile Include="EG8_gaussian_noise.cpp" />
     <ClCompile Include="EG9_median_filter.cpp" />
+    <ClCompile Include="Face_Detection.cpp" />
     <ClCompile Include="Hough_Circles.cpp" />
     <ClCompile Include="Hough_Detection.cpp" />
     <ClCompile Include="main.cpp" />
@@ -170,6 +171,7 @@
     <ClCompile Include="Morphological_Image_Processing.cpp" />
     <ClCompile Include="Scharr_Edge_Detection.cpp" />
     <ClCompile Include="Sobel_Edge_Detection.cpp" />
+    <ClCompile Include="Template_Matching.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

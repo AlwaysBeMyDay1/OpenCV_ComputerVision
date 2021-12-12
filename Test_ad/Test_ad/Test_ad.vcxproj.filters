@@ -81,5 +81,11 @@
     <ClCompile Include="Hough_Circles.cpp">
       <Filter>소스 파일\Detection</Filter>
     </ClCompile>
+    <ClCompile Include="Template_Matching.cpp">
+      <Filter>소스 파일\Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="Face_Detection.cpp">
+      <Filter>소스 파일\Detection</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
